@@ -1,0 +1,672 @@
+
+
+Input number is 1
+
+At last! we found a palindrome which is 1
+
+
+Input number is 2
+
+At last! we found a palindrome which is 2
+
+
+Input number is 3
+
+At last! we found a palindrome which is 3
+
+
+Input number is 4
+
+At last! we found a palindrome which is 4
+
+
+Input number is 5
+
+At last! we found a palindrome which is 5
+
+
+Input number is 6
+
+At last! we found a palindrome which is 6
+
+
+Input number is 7
+
+At last! we found a palindrome which is 7
+
+
+Input number is 8
+
+At last! we found a palindrome which is 8
+
+
+Input number is 9
+
+At last! we found a palindrome which is 9
+
+
+Input number is 10
+
+The number 10 isn't a palindrome!
+At last! we found a palindrome which is 11
+
+
+Input number is 11
+
+At last! we found a palindrome which is 11
+
+
+Input number is 12
+
+The number 12 isn't a palindrome!
+At last! we found a palindrome which is 33
+
+
+Input number is 13
+
+The number 13 isn't a palindrome!
+At last! we found a palindrome which is 44
+
+
+Input number is 14
+
+The number 14 isn't a palindrome!
+At last! we found a palindrome which is 55
+
+
+Input number is 15
+
+The number 15 isn't a palindrome!
+At last! we found a palindrome which is 66
+
+
+Input number is 16
+
+The number 16 isn't a palindrome!
+At last! we found a palindrome which is 77
+
+
+Input number is 17
+
+The number 17 isn't a palindrome!
+At last! we found a palindrome which is 88
+
+
+Input number is 18
+
+The number 18 isn't a palindrome!
+At last! we found a palindrome which is 99
+
+
+Input number is 19
+
+The number 19 isn't a palindrome!
+The number 110 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 20
+
+The number 20 isn't a palindrome!
+At last! we found a palindrome which is 22
+
+
+Input number is 21
+
+The number 21 isn't a palindrome!
+At last! we found a palindrome which is 33
+
+
+Input number is 22
+
+At last! we found a palindrome which is 22
+
+
+Input number is 23
+
+The number 23 isn't a palindrome!
+At last! we found a palindrome which is 55
+
+
+Input number is 24
+
+The number 24 isn't a palindrome!
+At last! we found a palindrome which is 66
+
+
+Input number is 25
+
+The number 25 isn't a palindrome!
+At last! we found a palindrome which is 77
+
+
+Input number is 26
+
+The number 26 isn't a palindrome!
+At last! we found a palindrome which is 88
+
+
+Input number is 27
+
+The number 27 isn't a palindrome!
+At last! we found a palindrome which is 99
+
+
+Input number is 28
+
+The number 28 isn't a palindrome!
+The number 110 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 29
+
+The number 29 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 30
+
+The number 30 isn't a palindrome!
+At last! we found a palindrome which is 33
+
+
+Input number is 31
+
+The number 31 isn't a palindrome!
+At last! we found a palindrome which is 44
+
+
+Input number is 32
+
+The number 32 isn't a palindrome!
+At last! we found a palindrome which is 55
+
+
+Input number is 33
+
+At last! we found a palindrome which is 33
+
+
+Input number is 34
+
+The number 34 isn't a palindrome!
+At last! we found a palindrome which is 77
+
+
+Input number is 35
+
+The number 35 isn't a palindrome!
+At last! we found a palindrome which is 88
+
+
+Input number is 36
+
+The number 36 isn't a palindrome!
+At last! we found a palindrome which is 99
+
+
+Input number is 37
+
+The number 37 isn't a palindrome!
+The number 110 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 38
+
+The number 38 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 39
+
+The number 39 isn't a palindrome!
+The number 132 isn't a palindrome!
+At last! we found a palindrome which is 363
+
+
+Input number is 40
+
+The number 40 isn't a palindrome!
+At last! we found a palindrome which is 44
+
+
+Input number is 41
+
+The number 41 isn't a palindrome!
+At last! we found a palindrome which is 55
+
+
+Input number is 42
+
+The number 42 isn't a palindrome!
+At last! we found a palindrome which is 66
+
+
+Input number is 43
+
+The number 43 isn't a palindrome!
+At last! we found a palindrome which is 77
+
+
+Input number is 44
+
+At last! we found a palindrome which is 44
+
+
+Input number is 45
+
+The number 45 isn't a palindrome!
+At last! we found a palindrome which is 99
+
+
+Input number is 46
+
+The number 46 isn't a palindrome!
+The number 110 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 47
+
+The number 47 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 48
+
+The number 48 isn't a palindrome!
+The number 132 isn't a palindrome!
+At last! we found a palindrome which is 363
+
+
+Input number is 49
+
+The number 49 isn't a palindrome!
+The number 143 isn't a palindrome!
+At last! we found a palindrome which is 484
+
+
+Input number is 50
+
+The number 50 isn't a palindrome!
+At last! we found a palindrome which is 55
+
+
+Input number is 51
+
+The number 51 isn't a palindrome!
+At last! we found a palindrome which is 66
+
+
+Input number is 52
+
+The number 52 isn't a palindrome!
+At last! we found a palindrome which is 77
+
+
+Input number is 53
+
+The number 53 isn't a palindrome!
+At last! we found a palindrome which is 88
+
+
+Input number is 54
+
+The number 54 isn't a palindrome!
+At last! we found a palindrome which is 99
+
+
+Input number is 55
+
+At last! we found a palindrome which is 55
+
+
+Input number is 56
+
+The number 56 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 57
+
+The number 57 isn't a palindrome!
+The number 132 isn't a palindrome!
+At last! we found a palindrome which is 363
+
+
+Input number is 58
+
+The number 58 isn't a palindrome!
+The number 143 isn't a palindrome!
+At last! we found a palindrome which is 484
+
+
+Input number is 59
+
+The number 59 isn't a palindrome!
+The number 154 isn't a palindrome!
+The number 605 isn't a palindrome!
+At last! we found a palindrome which is 1111
+
+
+Input number is 60
+
+The number 60 isn't a palindrome!
+At last! we found a palindrome which is 66
+
+
+Input number is 61
+
+The number 61 isn't a palindrome!
+At last! we found a palindrome which is 77
+
+
+Input number is 62
+
+The number 62 isn't a palindrome!
+At last! we found a palindrome which is 88
+
+
+Input number is 63
+
+The number 63 isn't a palindrome!
+At last! we found a palindrome which is 99
+
+
+Input number is 64
+
+The number 64 isn't a palindrome!
+The number 110 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 65
+
+The number 65 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 66
+
+At last! we found a palindrome which is 66
+
+
+Input number is 67
+
+The number 67 isn't a palindrome!
+The number 143 isn't a palindrome!
+At last! we found a palindrome which is 484
+
+
+Input number is 68
+
+The number 68 isn't a palindrome!
+The number 154 isn't a palindrome!
+The number 605 isn't a palindrome!
+At last! we found a palindrome which is 1111
+
+
+Input number is 69
+
+The number 69 isn't a palindrome!
+The number 165 isn't a palindrome!
+The number 726 isn't a palindrome!
+The number 1353 isn't a palindrome!
+At last! we found a palindrome which is 4884
+
+
+Input number is 70
+
+The number 70 isn't a palindrome!
+At last! we found a palindrome which is 77
+
+
+Input number is 71
+
+The number 71 isn't a palindrome!
+At last! we found a palindrome which is 88
+
+
+Input number is 72
+
+The number 72 isn't a palindrome!
+At last! we found a palindrome which is 99
+
+
+Input number is 73
+
+The number 73 isn't a palindrome!
+The number 110 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 74
+
+The number 74 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 75
+
+The number 75 isn't a palindrome!
+The number 132 isn't a palindrome!
+At last! we found a palindrome which is 363
+
+
+Input number is 76
+
+The number 76 isn't a palindrome!
+The number 143 isn't a palindrome!
+At last! we found a palindrome which is 484
+
+
+Input number is 77
+
+At last! we found a palindrome which is 77
+
+
+Input number is 78
+
+The number 78 isn't a palindrome!
+The number 165 isn't a palindrome!
+The number 726 isn't a palindrome!
+The number 1353 isn't a palindrome!
+At last! we found a palindrome which is 4884
+
+
+Input number is 79
+
+The number 79 isn't a palindrome!
+The number 176 isn't a palindrome!
+The number 847 isn't a palindrome!
+The number 1595 isn't a palindrome!
+The number 7546 isn't a palindrome!
+The number 14003 isn't a palindrome!
+At last! we found a palindrome which is 44044
+
+
+Input number is 80
+
+The number 80 isn't a palindrome!
+At last! we found a palindrome which is 88
+
+
+Input number is 81
+
+The number 81 isn't a palindrome!
+At last! we found a palindrome which is 99
+
+
+Input number is 82
+
+The number 82 isn't a palindrome!
+The number 110 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 83
+
+The number 83 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 84
+
+The number 84 isn't a palindrome!
+The number 132 isn't a palindrome!
+At last! we found a palindrome which is 363
+
+
+Input number is 85
+
+The number 85 isn't a palindrome!
+The number 143 isn't a palindrome!
+At last! we found a palindrome which is 484
+
+
+Input number is 86
+
+The number 86 isn't a palindrome!
+The number 154 isn't a palindrome!
+The number 605 isn't a palindrome!
+At last! we found a palindrome which is 1111
+
+
+Input number is 87
+
+The number 87 isn't a palindrome!
+The number 165 isn't a palindrome!
+The number 726 isn't a palindrome!
+The number 1353 isn't a palindrome!
+At last! we found a palindrome which is 4884
+
+
+Input number is 88
+
+At last! we found a palindrome which is 88
+
+
+Input number is 89
+
+The number 89 isn't a palindrome!
+The number 187 isn't a palindrome!
+The number 968 isn't a palindrome!
+The number 1837 isn't a palindrome!
+The number 9218 isn't a palindrome!
+The number 17347 isn't a palindrome!
+The number 91718 isn't a palindrome!
+The number 173437 isn't a palindrome!
+The number 907808 isn't a palindrome!
+The number 1716517 isn't a palindrome!
+The number 8872688 isn't a palindrome!
+The number 17735476 isn't a palindrome!
+The number 85189247 isn't a palindrome!
+The number 159487405 isn't a palindrome!
+The number 664272356 isn't a palindrome!
+The number 1317544822 isn't a palindrome!
+The number 3602001953 isn't a palindrome!
+The number 7193004016 isn't a palindrome!
+The number 13297007933 isn't a palindrome!
+The number 47267087164 isn't a palindrome!
+The number 93445163438 isn't a palindrome!
+The number 176881317877 isn't a palindrome!
+The number 955594506548 isn't a palindrome!
+The number 1801200002107 isn't a palindrome!
+At last! we found a palindrome which is 8813200023188
+
+
+Input number is 90
+
+The number 90 isn't a palindrome!
+At last! we found a palindrome which is 99
+
+
+Input number is 91
+
+The number 91 isn't a palindrome!
+The number 110 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 92
+
+The number 92 isn't a palindrome!
+At last! we found a palindrome which is 121
+
+
+Input number is 93
+
+The number 93 isn't a palindrome!
+The number 132 isn't a palindrome!
+At last! we found a palindrome which is 363
+
+
+Input number is 94
+
+The number 94 isn't a palindrome!
+The number 143 isn't a palindrome!
+At last! we found a palindrome which is 484
+
+
+Input number is 95
+
+The number 95 isn't a palindrome!
+The number 154 isn't a palindrome!
+The number 605 isn't a palindrome!
+At last! we found a palindrome which is 1111
+
+
+Input number is 96
+
+The number 96 isn't a palindrome!
+The number 165 isn't a palindrome!
+The number 726 isn't a palindrome!
+The number 1353 isn't a palindrome!
+At last! we found a palindrome which is 4884
+
+
+Input number is 97
+
+The number 97 isn't a palindrome!
+The number 176 isn't a palindrome!
+The number 847 isn't a palindrome!
+The number 1595 isn't a palindrome!
+The number 7546 isn't a palindrome!
+The number 14003 isn't a palindrome!
+At last! we found a palindrome which is 44044
+
+
+Input number is 98
+
+The number 98 isn't a palindrome!
+The number 187 isn't a palindrome!
+The number 968 isn't a palindrome!
+The number 1837 isn't a palindrome!
+The number 9218 isn't a palindrome!
+The number 17347 isn't a palindrome!
+The number 91718 isn't a palindrome!
+The number 173437 isn't a palindrome!
+The number 907808 isn't a palindrome!
+The number 1716517 isn't a palindrome!
+The number 8872688 isn't a palindrome!
+The number 17735476 isn't a palindrome!
+The number 85189247 isn't a palindrome!
+The number 159487405 isn't a palindrome!
+The number 664272356 isn't a palindrome!
+The number 1317544822 isn't a palindrome!
+The number 3602001953 isn't a palindrome!
+The number 7193004016 isn't a palindrome!
+The number 13297007933 isn't a palindrome!
+The number 47267087164 isn't a palindrome!
+The number 93445163438 isn't a palindrome!
+The number 176881317877 isn't a palindrome!
+The number 955594506548 isn't a palindrome!
+The number 1801200002107 isn't a palindrome!
+At last! we found a palindrome which is 8813200023188
+
+
+Input number is 99
+
+At last! we found a palindrome which is 99

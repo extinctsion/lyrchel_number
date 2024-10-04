@@ -17,6 +17,10 @@ Use this code to run the code in your pc
 ```
 python3 Lychrel.py
 ```
+
+# Main idea:
+The main idea behind this repository is to make a place where we will be able to visualize the problem of Lychrel number. We will use python programming language to iterate through the numbers and show output in seperate file. Maybe, we might find out a new Lychrel number!!!!
+
 ## License
 
  - [MIT](https://raw.githubusercontent.com/ionic-team/stencil/main/LICENSE.md)

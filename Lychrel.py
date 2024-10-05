@@ -11,8 +11,8 @@ THIS MAY ALSO RESULT TO TOTAL CRASH OF THE SYSTEM. IF YOUR PC IS STRONG ENOUGH T
 RECURSION, FEEL FREE TO USE THE CODE BY REMOVING THE COMMENTS.
 """
 
-import sys
-sys.setrecursionlimit(1500000)
+# import sys
+# sys.setrecursionlimit(1500000)
 file_name = f"lychrel_numbers.txt"
 file = open(file_name, "w")
 

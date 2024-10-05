@@ -4,7 +4,7 @@ A [Lychrel number](https://en.wikipedia.org/wiki/Lychrel_number/) is a natural n
 
 The code is made in order to iterate the algorithm and check for palindrome.
 Check the code and run it. There is also a code written in comment to increase the recusion limit. BEWARE not to open the run the code.
-Run it at your own risk.
+Run this code at your own risk.
 
 # Getting started:
 

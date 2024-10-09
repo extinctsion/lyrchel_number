@@ -1,4 +1,4 @@
-
+Output from 1 to 100 is:
 
 Input number is 1
 

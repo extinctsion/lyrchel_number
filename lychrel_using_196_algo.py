@@ -1,21 +1,38 @@
 import sys
 
+
 # Function to check if a number is a palindrome
 def is_palindrome(n):
-    return str(n) == str(n)[::-1]
+    original = n
+    reversed_n = 0
+    while n > 0:
+        reversed_n = reversed_n * 10 + n % 10
+        n //= 10
+    return original == reversed_n
+
+
+# Function to reverse digits of a number without converting to string
+def reverse_number(n):
+    reversed_n = 0
+    while n > 0:
+        reversed_n = reversed_n * 10 + n % 10
+        n //= 10
+    return reversed_n
+
 
 # Function to apply the 196-algorithm and check for Lychrel numbers
 def lychrel_test(n, max_iterations=500):
     iteration = 0
     while iteration < max_iterations:
-        reversed_n = int(str(n)[::-1])  # Reverse the digits of the number
+        reversed_n = reverse_number(n)  # Reverse the digits of the number
         n += reversed_n
         iteration += 1
-        
+
         if is_palindrome(n):
             return False, n, iteration  # Not a Lychrel number, palindrome found
 
     return True, n, iteration  # Possible Lychrel number (no palindrome found)
+
 
 # Main function to test a range of numbers
 def main():
@@ -29,6 +46,7 @@ def main():
 
     print(f"Possible Lychrel numbers up to {limit}: {possible_lychrels}")
     print(f"Number of possible Lychrel numbers: {len(possible_lychrels)}")
+
 
 # Prevent recursion limit errors by setting a higher limit (use with caution)
 sys.setrecursionlimit(2000)
